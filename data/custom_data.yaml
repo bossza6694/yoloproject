@@ -1,0 +1,12 @@
+
+
+
+train: ./data/train2
+val: ./data/val2
+
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'Bin1_ClearPlastic', 'Bin2_ColoredPlastic', 'Bin4_Other' ]
